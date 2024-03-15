@@ -23,5 +23,4 @@ If you encounter any issues, please report them in the issues tab.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
 
